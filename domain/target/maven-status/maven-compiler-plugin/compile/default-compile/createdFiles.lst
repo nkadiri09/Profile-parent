@@ -1,1 +1,3 @@
-com/naren/kadiri/App.class
+com/naren/kadiri/customer/domain/repository/CustomerRepository.class
+com/naren/kadiri/customer/domain/service/CustomerService.class
+com/naren/kadiri/customer/domain/aggregate/Customer.class
