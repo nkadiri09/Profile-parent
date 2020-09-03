@@ -23,6 +23,11 @@
   </properties>
 
   <dependencies>
+    <dependency>
+      <groupId>com.naren.kadiri</groupId>
+      <artifactId>domain</artifactId>
+      <version>${project.version}</version>
+    </dependency>
   </dependencies>
 
   <build>
